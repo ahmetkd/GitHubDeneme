@@ -6,14 +6,8 @@ public class Class01 {
 //version 2 kodlar
         System.out.println("version 2");
 
-        //version 3
-        System.out.println("version 3");
+        //version6
 
-        //version 4
-        System.out.println("version 4");
-
-
-
-
+        System.out.println("version6");
     }
 }
