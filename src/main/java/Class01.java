@@ -3,5 +3,7 @@ public class Class01 {
         // version 1 Kodlar
 
         System.out.println("version 1");
+//version 2 kodlar
+        System.out.println("version 2");
     }
 }
